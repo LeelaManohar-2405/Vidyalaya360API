@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
-namespace Vidyalaya360API
+namespace Sso.Controllers
 {
     public class Program
     {
